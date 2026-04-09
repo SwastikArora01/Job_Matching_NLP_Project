@@ -6,6 +6,8 @@ import torch
 from sklearn.metrics.pairwise import cosine_similarity
 import os
 
+st.title("Job Matching Tool")
+
 # ------------------------------
 # Load DistilBERT once
 # ------------------------------
