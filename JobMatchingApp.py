@@ -8,7 +8,6 @@ import os
 
 st.set_page_config(
     page_title="Job Matcher Tool",
-    page_icon="📄"   # optional
 )
 
 # ------------------------------
